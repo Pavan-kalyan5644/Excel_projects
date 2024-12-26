@@ -1,2 +1,2 @@
-# PowerBI_Dashboard_Project
-This is a Power Bi end to end Project
+# Blinkit sales Excel Project
+This is a Excel end to end Project
